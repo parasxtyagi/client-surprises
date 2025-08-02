@@ -1,0 +1,27 @@
+{
+  "name": "Happy Girlfriend Day - Love Story",
+  "short_name": "Love Story",
+  "description": "A special surprise website celebrating our beautiful love story",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#ec4899",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/placeholder.svg?height=192&width=192&text=💕",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/placeholder.svg?height=512&width=512&text=💕",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "entertainment"],
+  "lang": "en",
+  "dir": "ltr"
+}
